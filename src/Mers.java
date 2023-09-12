@@ -1,5 +1,5 @@
 public class Mers extends Car{
-    private String windowColor;
+    private String windowsColor;
 
     public Mers() {
         super();
@@ -7,10 +7,10 @@ public class Mers extends Car{
 
 
     public String getWindowColor() {
-        return windowColor;
+        return windowsColor;
     }
 
     public void setWindowColor(String windowColor) {
-        this.windowColor = windowColor;
+        this.windowsColor = windowColor;
     }
 }
