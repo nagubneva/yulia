@@ -8,6 +8,11 @@ public class Car {
         this.brand = brand;
     }
 
+    public Car() {
+
+    }
+
+
     public String getColor() {
         return color;
     }
